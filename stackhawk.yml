@@ -1,6 +1,6 @@
 app:
   applicationId: f61f5608-74a4-4d5c-b164-274ba48acd26
-  host: https://appstst2.testprorail.nl
+  host: https://appstst.testprorail.nl/
   env: Development
 
 hawk:
