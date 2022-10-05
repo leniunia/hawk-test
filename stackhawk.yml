@@ -1,0 +1,9 @@
+app:
+  applicationId: f61f5608-74a4-4d5c-b164-274ba48acd26
+  host: http://example.com
+  env: Development
+
+hawk:
+  startupTimeoutMinutes: 1
+  spider:
+    base: false
